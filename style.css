@@ -1,0 +1,21 @@
+body{
+    width: 600px;
+    border: 1px solid navy;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+img{
+    width: 100%;
+}
+
+.description,
+.image{
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 18px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+
